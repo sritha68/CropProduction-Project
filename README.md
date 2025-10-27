@@ -74,8 +74,8 @@ CropProductionProject/
 ---
 Installation & Usage
 1. Clone the repository
-```bash
-"git clone https://github.com/<your-username>/CropProductionProject.git"
+bash
+"git clone https://github.com/<your-username>/CropProductionProject.git" 
 2. Navigate to Repository
 cd CropProductionProject
 3. Install dependencies
