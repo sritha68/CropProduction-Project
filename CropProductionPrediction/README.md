@@ -56,11 +56,9 @@ FOLDER STRUCTURE:
 
 CropProductionPrediction/
 - notebooks/
-  - Crop_Production_Prediction.ipynb
+  - Project1.ipynb
 - data/
   - (sample datasets or README with dataset links)
-- src/
-  - train_model.py (optional)
 - requirements.txt
 - README.md
 - .gitignore
@@ -69,4 +67,5 @@ Author
 Sritha Chippa
 B.Tech in Artificial Intelligence (2025)
 Project: Crop Production Prediction using Rainfall Data
+
 
