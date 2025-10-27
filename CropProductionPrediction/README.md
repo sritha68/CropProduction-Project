@@ -1,4 +1,4 @@
-Crop Production Prediction using Rainfall Data 
+                **Crop Production Prediction using Rainfall Data** 
 This project predicts crop production based on rainfall and area using a Linear Regression model.
 It aims to help in agricultural planning by analyzing the relationship between rainfall and crop yield.
 
@@ -69,3 +69,4 @@ Author
 Sritha Chippa
 B.Tech in Artificial Intelligence (2025)
 Project: Crop Production Prediction using Rainfall Data
+
