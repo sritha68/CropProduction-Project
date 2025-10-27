@@ -75,13 +75,13 @@ CropProductionProject/
 Installation & Usage
 1. Clone the repository
 bash
-"git clone https://github.com/<your-username>/CropProductionProject.git" 
+-git clone https://github.com/<sritha68>/CropProductionProject.git
 2. Navigate to Repository
-cd CropProductionProject
+-cd CropProductionProject
 3. Install dependencies
-pip install -r requirements.txt
+-pip install -r requirements.txt
 4. Run the notebook
-notebooks/Project1.ipynb
+-notebooks/Project1.ipynb
 
 Data Information:
 You can download the datasets from:
