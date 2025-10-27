@@ -8,7 +8,7 @@ Project Overview:
 Agriculture in India heavily depends on rainfall.  
 This project combines **crop production data** and **rainfall data** to build a model that predicts crop production.  
 
-We use:
+I used:
 - Crop Production Dataset (from [data.gov.in](https://data.gov.in/) / Kaggle)
 - Rainfall Dataset (state-wise yearly rainfall)
 - Linear Regression Model from `scikit-learn`
