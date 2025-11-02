@@ -3,6 +3,9 @@
 This project predicts **crop production** based on **rainfall** and **cultivated area** using a **Linear Regression Machine Learning model**.  
 It aims to help understand how environmental and land factors influence crop yield in different Indian states.
 
+Project Demo:
+Watch the 2-minute Loom video [here](https://www.loom.com/share/ea5879de61664b5aa63483bb2b778950)
+
 ---
 Project Overview:
 Agriculture in India heavily depends on rainfall.  
